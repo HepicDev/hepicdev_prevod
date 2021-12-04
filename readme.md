@@ -1,4 +1,5 @@
-# srpski prevod za fivem
+# srpski prevod za fivem, nije full, ako hocete dopunite pa napravite pull request
+
 
 ## slike:
 
