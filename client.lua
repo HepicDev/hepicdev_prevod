@@ -1,6 +1,6 @@
 nebitnofivem = 'Nebitno za FiveM'
 
-AddTextEntry('FE_THDR_GTAO', 'IME VASEG SERVERA')
+AddTextEntry('FE_THDR_GTAO', Config.ImeServera)
 
 -- ovu funkciju za ime servera mozete npr staviti u neki loop da geta id, helte, posao, itd, ovo je jednostavna verzija
 
